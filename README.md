@@ -1,7 +1,7 @@
 # Explainable-AI-in-Dementia
 Enhancing personalised dementia risk prediction through transfer learning and SHAP interpretability
 
-1. Final research Paper in pdf format: Enhancing personalised dementia risk prediction through transfer learning and SHAP interpretability
+1. Research Paper in pdf format (Enhancing personalised dementia risk prediction through transfer learning and SHAP interpretability)
 
 2. Code for SHAREWave8 dataset in ipynb format
 
