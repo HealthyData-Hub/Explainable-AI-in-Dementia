@@ -12,3 +12,5 @@ Enhancing personalised dementia risk prediction through transfer learning and SH
 5. Learned Weights from the SHAREWave8 neural networks in .h5 format
 
 6. Research Paper: Enhancing personalised dementia risk prediction through transfer learning and SHAP interpretability
+
+This repository does not include raw ADNI or SHARE Wave 8 data, as both datasets are subject to strict data‑use agreements and European data protection laws (including GDPR) that prohibit public redistribution; researchers must obtain access directly from the respective providers.
